@@ -1,0 +1,28 @@
+body{
+    background-color: wheat;
+
+}
+
+.navbar{
+    background-color: #252525;
+}
+
+.corps{
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+}
+
+.jeu{
+    border: #252525 2px solid;
+    border-radius: 25px;
+    padding: 5px;
+    margin: 10px;
+}
+
+.formulaire{
+    display: flex;
+    flex-direction: column;
+    border: #252525 2px solid;
+}
